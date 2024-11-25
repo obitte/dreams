@@ -4,6 +4,8 @@
 .dream {
     background-color: blue;
     text-align: center;
+    display: flex;
+    flex-direction: column;
     padding: 20px;
 
   }
