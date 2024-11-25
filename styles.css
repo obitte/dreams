@@ -4,13 +4,7 @@
 .dream {
     background-color: #DBE9EE;
     text-align: center;
-    width: 400px;
-    height: 50px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 40px;
+
   }
 
  .live {
