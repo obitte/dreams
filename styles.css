@@ -2,7 +2,7 @@
     display:inline;
 }
 
-.dream,h5{
+.dream{
     color:blue;
     background-color: yellow;
     text-align: center;
@@ -12,7 +12,7 @@
     padding: 40px;
   }
 
- .live {
+ .live,h5 {
         background-color: #DBE9EE;
         text-align: center;
         width: 500px;
